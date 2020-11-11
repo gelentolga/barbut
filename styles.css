@@ -1,0 +1,41 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #fddb3a;
+}
+
+h1 {
+  margin: 20px;
+  font-family: 'Source Sans Pro', sans-serif;
+  text-shadow: 1px 0 #232931;
+  font-size: 10rem;
+  color: #41444b;
+}
+
+p {
+  font-size: 4rem;
+  color: #41444b;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #41444b;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
